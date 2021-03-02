@@ -2,6 +2,7 @@
 
 ### Materials
 * https://education.oracle.com/java-25th-anniversary-discount-redemption
+* https://www.selikoff.net/ocp11-complete/
 * https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-11-exam-1z0-819
 * https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
 * [Modern Java Collections](https://learning.oreilly.com/videos/modern-java-collections/9780134663524/)
