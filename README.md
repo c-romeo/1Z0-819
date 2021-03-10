@@ -9,7 +9,9 @@
 * [Modern Java Collections](https://learning.oreilly.com/videos/modern-java-collections/9780134663524/)
 * https://learning.oreilly.com/live-training/courses/java-11-certification-1z0-819-exam-cram/0636920053300/
 * [Functional Java for Big Data](https://learning.oreilly.com/live-training/courses/functional-java-for-big-data/0636920053045/)
-* 
+* [Advanced Java Development](https://learning.oreilly.com/videos/advanced-java-development/9781491960400)
+* [Java 8 and 9 Fundamentals: Modern Java Development with Lambdas, Streams, and Introducing Java 9’s JShell and the Java Platform Module System (JPMS)](https://learning.oreilly.com/videos/java-8-fundamentals/9780133489354)
+* [Functional Programming For Java LiveLessons](https://learning.oreilly.com/videos/functional-programming-for/9780134778235)
 
 # exam topics
 ### Working with Java data types
