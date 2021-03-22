@@ -12,6 +12,7 @@
 * [Advanced Java Development](https://learning.oreilly.com/videos/advanced-java-development/9781491960400)
 * [Java 8 and 9 Fundamentals: Modern Java Development with Lambdas, Streams, and Introducing Java 9’s JShell and the Java Platform Module System (JPMS)](https://learning.oreilly.com/videos/java-8-fundamentals/9780133489354)
 * [Functional Programming For Java LiveLessons](https://learning.oreilly.com/videos/functional-programming-for/9780134778235)
+* [Oracle University - Java SE 11 New Features](https://www.youtube.com/watch?v=81lj7EugAnE)
 
 # exam topics
 ### Working with Java data types
